@@ -1,0 +1,2 @@
+# Enigma2-Tester-by-xulek
+ tester już znalezionych streamów enigma2 za pomocą któregoś ze skanerów. Pozwala on wyselekcjonować, które z waszych streamów nadal działają, a które nie i wrzucić do odpowiedniego folderu. W pewnym stopniu sortuje też najszybciej odpowiadające źródła enigma2 oraz ma możliwość skanowania wybranego przez was kanału, ponieważ nie wszystkie źródła posiadają wszystkie kanały.
